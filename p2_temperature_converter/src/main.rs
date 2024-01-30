@@ -4,6 +4,9 @@
 *
 *
 *
+    Temperature in degrees Fahrenheit (°F) = (Temperature in degrees Celsius (°C) * 9/5) + 32
+    Temperature in degrees Celsius (°C) = (Temperature in degrees Fahrenheit (°F) - 32) * 5/9
+
 *
 *
 *
@@ -15,10 +18,9 @@
 
 fn main() {
     print_instructions();
-    user_option_select();
-    user_input();
-    calculate_conversion();
-    print_solution();
+    let user_option = user_option_select();
+    let temp = user_input(user_option);
+    print_solution(temp);
 }
 
 fn print_instructions() {
@@ -55,6 +57,38 @@ fn user_option_select() -> bool {
         }
     }
 }
-fn user_input() {}
-fn calculate_conversion() {}
-fn print_solution() {}
+fn user_input(user_option: bool) -> f32 {
+    loop {
+        let mut user_temp = String::new();
+        if user_option == true {
+            println!("Enter the temperature you wish to convert:");
+
+            std::io::stdin()
+                .read_line(&mut user_temp)
+                .expect("Failed to read line");
+
+            match user_temp.trim().parse::<f32>() {
+                Ok(num) => return num * 9.0 / 5.0 + 32.0,
+                Err(_) => {
+                    println!("Please input a number.")
+                }
+            }
+        } else {
+            println!("Enter the temperature you wish to convert:");
+
+            std::io::stdin()
+                .read_line(&mut user_temp)
+                .expect("Failed to read line");
+
+            match user_temp.trim().parse::<f32>() {
+                Ok(num) => return (num - 32.0) * 5.0 / 9.0,
+                Err(_) => {
+                    println!("Please input a number.")
+                }
+            }
+        }
+    }
+}
+fn print_solution(temp: f32) {
+    println!("Solution: {}", temp);
+}
