@@ -1,0 +1,12 @@
+/home/goblin/Repos/100_projects_rust/p4_grep_cli/target/debug/deps/libignore-7d14735768d8ee79.rmeta: /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs
+
+/home/goblin/Repos/100_projects_rust/p4_grep_cli/target/debug/deps/ignore-7d14735768d8ee79.d: /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs
+
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs:

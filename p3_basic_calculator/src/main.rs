@@ -3,7 +3,7 @@ fn main() {
     let operand1 = input_operand();
     let operator = input_operator();
     let operand2 = input_operand();
-    let solution = calculate(operand1, operator, operand2);
+    let solution = calculate(operand1, &operator, operand2);
     println!("Solution: {}", solution);
 }
 
@@ -33,14 +33,19 @@ fn input_operator() -> String {
             .expect("Failed to read line");
 
         match user_input.trim() {
-            "+" => return,
-            "-" => return,
-            "*" => return,
-            "/" => return,
+            "+" | "-" | "*" | "/" => return user_input.trim().to_string(),
             _ => {
-                println!("Please enter an a +, -, *, /");
+                println!("Please enter a single operator ( + | - | * | / )");
             }
         }
     }
 }
-fn calculate(oerpand1: f32, operator: String, operand2: f32) -> f32 {}
+fn calculate(operand1: f32, operator: &str, operand2: f32) -> f32 {
+    match operator {
+        "+" => return operand1 + operand2,
+        "-" => return operand1 - operand2,
+        "*" => return operand1 * operand2,
+        "/" => return operand1 / operand2,
+        _ => panic!(),
+    }
+}

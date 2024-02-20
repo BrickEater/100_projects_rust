@@ -1,0 +1,11 @@
+/home/goblin/Repos/100_projects_rust/p4_grep_cli/target/debug/deps/libassert_cmd-b3adf0bc7e2dd0f5.rmeta: /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/lib.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/assert.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cargo.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cmd.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/output.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/color.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/../README.md
+
+/home/goblin/Repos/100_projects_rust/p4_grep_cli/target/debug/deps/assert_cmd-b3adf0bc7e2dd0f5.d: /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/lib.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/assert.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cargo.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cmd.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/output.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/color.rs /home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/../README.md
+
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/lib.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/assert.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cargo.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/cmd.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/output.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/color.rs:
+/home/goblin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.13/src/../README.md:
